@@ -1,7 +1,5 @@
 # Hoofdstuk 1: Introductie tot Embedded Interfacing
 
-## 1.1 Het doel van Embedded Interfacing
-
 Het vak "Embedded Interfacing" draait, zoals de naam laat vermoeden, niet om
 één specifiek merk of platform, maar om **embedded interfacing** als proces:
 het ontwerpen en programmeren van systemen die diverse componenten

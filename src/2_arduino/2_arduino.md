@@ -16,11 +16,11 @@ Het typische verloop ziet er telkens als volgt uit:
 
 De volgende secties overlopen de onderdelen die daarvoor nodig zijn:
 
-- **2.1 De Arduino IDE**: een korte rondleiding door de interface.
-- **2.2 De Serial Monitor**: het belangrijkste hulpmiddel om te zien wat er
+- **[2.1 De Arduino IDE](./2.1_de_arduino_ide.md)**: een korte rondleiding door de interface.
+- **[2.2 De Serial Monitor](./2.2_de_serial_monitor.md)**: het belangrijkste hulpmiddel om te zien wat er
   in een board gebeurt.
-- **2.3 De Arduino core**: wat een core is, en hoe de ESP32-core
+- **[2.3 De Arduino core](./2.3_de_arduino_core.md)**: wat een core is, en hoe de ESP32-core
   geïnstalleerd wordt. Dat laatste is een stap die niet mag ontbreken,
   aangezien de IDE deze core niet standaard bevat.
-- **2.4 De USB-driver installeren**: de driver voor de FireBeetle 2, die op
+- **[2.4 De USB-driver installeren](./2.4_de_ontwikkelomgeving_klaarzetten.md)**: de driver voor de FireBeetle 2, die op
   Windows vaak nog manueel geïnstalleerd moet worden.
